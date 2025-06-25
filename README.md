@@ -10,9 +10,6 @@ URL Path	Service	Internal Port
 http://localhost:8080
 
 📁 Folder Structure
-css
-Copy
-Edit
 Assignment/
 ├── docker-compose.yml
 ├── nginx/
@@ -36,10 +33,6 @@ NGINX as a reverse proxy
 
 ▶️ How to Run
 In the root folder, run:
-
-bash
-Copy
-Edit
 docker-compose up --build
 This will:
 
