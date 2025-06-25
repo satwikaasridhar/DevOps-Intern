@@ -9,19 +9,6 @@ URL Path	Service	Internal Port
 ✅ All traffic is exposed via the NGINX container at:
 http://localhost:8080
 
-📁 Folder Structure
-Assignment/
-├── docker-compose.yml
-├── nginx/
-│   ├── nginx.conf
-│   └── Dockerfile
-├── service_1/
-│   ├── main.go
-│   └── Dockerfile
-├── service_2/
-│   ├── app.py
-│   ├── requirements.txt
-│   └── Dockerfile
 🐳 Tech Stack
 Docker & Docker Compose
 
